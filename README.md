@@ -10,7 +10,11 @@ No diretório do projeto, você pode:
 
 ### `Iniciando`
 
-Execute o app no modo desenvolvedor.\
+Abra a pasta do projet no prompt e execute os seguintes comandos:
+npm install;
+npm install firebase;
+npm install @material-ui/core
+
 Abra [http://localhost:3000](http://localhost:3000) para ver no seu navegador.
 
 A página atualizará se você fizer edições.\
