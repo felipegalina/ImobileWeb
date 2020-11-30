@@ -1,7 +1,8 @@
 # Projeto Disciplina Tópicos Especiais em Programação
 # Website/Aplicativo Ibobile App desenvolvido por Felipe Veloso Galina
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi desenvolvido com a linguagem React Js, utilizando as bibliotecas material-ui/core, firebase, google maps entre outras do react.
+Os dados cadastrados no website são enviados e armazenados o servidor do Firebase.
 
 ## Execução scripts
 
