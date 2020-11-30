@@ -20,5 +20,6 @@ npm install @material-ui/core
 
 Abra [http://localhost:3000](http://localhost:3000) para ver no seu navegador.
 
+O usuário de acesso é "1116670@imed.edu.br" e a senha é "imobile12345"
 A página atualizará se você fizer edições.\
 Você também poderá ver as execuções e erros no console.
