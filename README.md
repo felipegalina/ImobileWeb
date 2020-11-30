@@ -3,7 +3,7 @@
 
 Este projeto foi desenvolvido com a linguagem React Js, utilizando as bibliotecas material-ui/core, firebase, google maps entre outras do react.
 Os dados cadastrados no website são enviados e armazenados o servidor do Firebase.
-O site está hospedado em http://imobileweb.infinityfreeapp.com/#/
+O site está hospedado em http://imobileweb.infinityfreeapp.com/
 
 ## Execução scripts
 
