@@ -11,7 +11,7 @@ No diretório do projeto, você pode:
 
 ### `Iniciando`
 
-Abra a pasta do projet no prompt e execute os seguintes comandos:
+Abra a pasta do projeto no prompt e execute os seguintes comandos:
 
 npm install;
 
