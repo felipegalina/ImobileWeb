@@ -21,4 +21,4 @@ npm install @material-ui/core
 Abra [http://localhost:3000](http://localhost:3000) para ver no seu navegador.
 
 A página atualizará se você fizer edições.\
-Você também verá ver erros no console.
+Você também poderá ver as execuções e erros no console.
